@@ -1,0 +1,32 @@
+林智仁[台湾大学]
+libsvm下载及更新地址: 
+http://www.csie.ntu.edu.tw/~cjlin/libsvm/
+
+Chih-Chung Chang and Chih-Jen Lin, LIBSVM : a library for
+support vector machines, 2001. Software available at
+http://www.csie.ntu.edu.tw/~cjlin/libsvm
+---------------------------------------------
+UCI[University of California Irvine]数据库:
+http://archive.ics.uci.edu/ml/index.html
+---------------------------------------------
+
+
+
+
+
+
+==============================================
+注意事项:
+
+1.测试数据的格式要求必须是每一列代表一个属性,每一列代表一个样本.
+
+2.数据类型需要是double型.
+
+3.
+
+
+
+
+
+
+
